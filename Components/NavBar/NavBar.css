@@ -1,0 +1,26 @@
+.NavBarItems p{
+    font-size: var(--AverageFontSize);
+}
+.NavBarItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-left: 1px solid var(--LightBlue);
+    border-right: 1px solid var(--LightBlue);
+}
+.NavBar{
+    
+    background-color: rgb(183,171,157);
+    border-radius: 20px;
+    margin: 4vh 3vw 0 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* display: grid; */
+    /* grid-template-columns: repeat(7,1fr); */
+    padding: 20px;
+}
+.NavbarText{
+    padding: 0 1vw;
+    color: rgb(79,114,133);
+}

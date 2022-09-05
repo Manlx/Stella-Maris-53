@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+:root{
+    --BorderRadi:20px;
+    --BackgroundColor:linear-gradient(white,rgb(42, 76, 115));
+    --OverAllFontColor:white;
+    --AverageFontSize:3.5vh;
+    --DarkBlue:rgb(35,53,63);
+    --MeduimBlue: rgb(79,114,133);
+    --LightBlue: rgb(115,156,176);
+}
+*{
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
+    padding: 0;
+    /* color: rgb(237,207,192); */
+    color: var(--OverAllFontColor);
+}
+body{
+    background-image: var(--BackgroundColor);
+}
+header{
+    /* margin: 2vh; */
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 1fr 2fr 1fr;
+    background-image: linear-gradient(var(--MeduimBlue),transparent );
+    /* border-radius: 20px; */
+}
+h1{
+    font-size: 7vh;
+}
+.FlexCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    font-size: var(--AverageFontSize);
+    text-decoration: none;
+}

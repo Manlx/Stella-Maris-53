@@ -1,0 +1,28 @@
+{
+    "ImageData":[
+        {
+            "ImagePath":"../../Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10 (1).jpeg",
+            "Description":"Outside view of the sea",
+            "Category":"Outside",
+            "Tags":["Outside","Sea","View"]
+        },
+        {
+            "ImagePath":"../Resources/Media/WhatsApp Image 2022-09-04 at 20.25.56 (2).jpeg",
+            "Description":"A Nice view",
+            "Category":"Outside",
+            "Tags":["Outside","Sea","View"]
+        },
+        {
+            "ImagePath":"../Resources/Media/WhatsApp Image 2022-09-04 at 20.25.58 (1).jpeg",
+            "Description":"Pizza Time",
+            "Category":"Outside",
+            "Tags":["Outside","Sea","View"]
+        },
+        {
+            "ImagePath":"../Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10.jpeg",
+            "Description":"View from roof",
+            "Category":"Outside",
+            "Tags":["Pool","Roof","View"]
+        }
+    ]
+}

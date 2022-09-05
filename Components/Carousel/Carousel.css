@@ -1,0 +1,56 @@
+:root{
+    --carouselTransitionTimes:1s;
+}
+.CarouselHolder{
+    height: 60vh;
+    display: flex;
+}
+.CarouselMainItems{
+    width: 100%;
+    border-radius: 20px;
+    margin: 20px 10px;
+    display: flex;
+}
+.CarouselButton{
+    /* background-color: blue; */
+    width: 5vw;
+    background-position: center;
+    background-size: 100% 100%;
+    
+}
+.CarouselDisplay{
+    background-size: 100% 100%;
+    /* background-image: url('.././Resources/Media/WhatsApp Image 2022-09-04 at 20.25.56 (2).jpeg'); */
+    
+}
+.LeftButton{
+    background-image: url('/Icons/LeftArrow.svg');
+    
+}
+.RightButton{
+    background-image: url('/Icons/RightArrow.svg');
+}
+.CarouselText{
+    /* display: none; */
+    opacity: 0;
+    font-size: 5vw;
+    transition: var(--carouselTransitionTimes);
+}
+.CarouselInfo{
+    display: none;
+    border-radius: var(--BorderRadi);
+    width: 80%;
+    height: 80%;
+    transition: var(--carouselTransitionTimes) background;
+}
+.CarouselInfo:hover{
+    /* display: flex; */
+    background-color: rgba(23,23,23,0.5);
+}
+.CarouselInfo:hover > .CarouselText{
+    /* display: block; */
+    opacity: 1;
+}
+.CarouselDisplay:hover > .CarouselInfo{
+    display: flex;
+}
