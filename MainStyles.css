@@ -8,6 +8,7 @@
     --DarkBlue:rgb(35,53,63);
     --MeduimBlue: rgb(79,114,133);
     --LightBlue: rgb(115,156,176);
+    --TransTime: 1s;
 }
 *{
     font-family: 'Heebo', sans-serif;
@@ -17,6 +18,8 @@
     color: var(--OverAllFontColor);
 }
 body{
+    /* min-height: 100vh; */
+    
     background-image: var(--BackgroundColor);
 }
 header{

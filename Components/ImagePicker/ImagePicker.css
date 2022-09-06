@@ -1,0 +1,17 @@
+.ImagePickerHolder{
+    
+    margin: 5vh;
+    /* background-color: rgba(50, 50, 99, 0.5); */
+}
+.SelectionRegion{
+    fill: rgba(0, 255, 247, 0);
+    transition: var(--TransTime);
+}
+.SelectionRegion:hover{
+    fill: rgba(0, 174, 197, 0.7);
+    cursor: pointer;
+}
+#FloorPlan{
+    background-color: rgb(174, 144, 108);
+    padding: 2vh;
+}
