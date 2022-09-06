@@ -1,28 +1,106 @@
 {
     "ImageData":[
         {
-            "ImagePath":"../../Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10 (1).jpeg",
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10 (1).jpeg",
             "Description":"Outside view of the sea",
             "Category":"Outside",
             "Tags":["Outside","Sea","View"]
         },
         {
-            "ImagePath":"../Resources/Media/WhatsApp Image 2022-09-04 at 20.25.56 (2).jpeg",
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.56 (2).jpeg",
             "Description":"A Nice view",
             "Category":"Outside",
             "Tags":["Outside","Sea","View"]
         },
         {
-            "ImagePath":"../Resources/Media/WhatsApp Image 2022-09-04 at 20.25.58 (1).jpeg",
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.58 (1).jpeg",
             "Description":"Pizza Time",
             "Category":"Outside",
             "Tags":["Outside","Sea","View"]
         },
         {
-            "ImagePath":"../Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10.jpeg",
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10.jpeg",
             "Description":"View from roof",
             "Category":"Outside",
             "Tags":["Pool","Roof","View"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.45 (1).jpeg",
+            "Description":"Collage of rooms",
+            "Category":"Inside",
+            "Tags":["Inside","Rooms","Collage","Bathroom","Guest Bathroom","GuestRoom","Portrait"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.45.jpeg",
+            "Description":"Collage of rooms",
+            "Category":"Inside",
+            "Tags":["Kitchen","Living room","Collage","Portrait"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.46 (1).jpeg",
+            "Description":"Photo of the hall as seen from the Master bedroom",
+            "Category":"Inside",
+            "Tags":["Hallway","Master bedroom","Portrait"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.46.jpeg",
+            "Description":"Kitchen with fridge and Stove",
+            "Category":"Inside",
+            "Tags":["Kitchen","Stove","Fridge"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.47 (1).jpeg",
+            "Description":"Masterbedroom looking out to the sea",
+            "Category":"Inside",
+            "Tags":["Master bedroom","Room","Double bed"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.47.jpeg",
+            "Description":"Masterbedroom looking out to the sea",
+            "Category":"Inside",
+            "Tags":["Master bedroom","Room","Double bed","Portrait"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.48 (1).jpeg",
+            "Description":"Kitchen",
+            "Category":"Inside",
+            "Tags":["Kitchen","Dining Area"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.48 (2).jpeg",
+            "Description":"Kitchen",
+            "Category":"Inside",
+            "Tags":["Kitchen","Washup Area"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.48.jpeg",
+            "Description":"Living room area broad picture",
+            "Category":"Inside",
+            "Tags":["Living Room","Wide Shot"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.49 (1).jpeg",
+            "Description":"Living room area broad picture",
+            "Category":"Inside",
+            "Tags":["Living Room","Wide Shot"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.49 (2).jpeg",
+            "Description":"Guest Bathroom",
+            "Category":"Inside",
+            "Tags":["Guest Bathroom","Bath","Toilet","Basin","Washing Machine"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.49.jpeg",
+            "Description":"Living Room cotch and Painting",
+            "Category":"Inside",
+            "Tags":["Cotch","Painting","Living Room","Portrait"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.50 (1).jpeg",
+            "Description":"Master bathroom",
+            "Category":"Inside",
+            "Tags":["Shower","Toilet","Basin","Portrait","Master Bathroom"]
         }
     ]
 }

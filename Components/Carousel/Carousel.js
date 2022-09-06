@@ -46,6 +46,9 @@ function GetData() {
             console.log(data)
             Data = data.ImageData
             console.log(Data)
+            Data = Data.filter(function (e){
+                return e.Tags.includes("View")
+            })
             setInterval(Tick,PageRate)
             LoadData()
         }
