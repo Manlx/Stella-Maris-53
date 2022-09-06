@@ -1,6 +1,6 @@
 function init() {
     $(".Logo").css("background-image","url('/Icons/Stella_Maris_5.png')");
-    HeaderLoadData()
+    // HeaderLoadData()
 }
 function LookFor(Attribute)
 {
@@ -18,14 +18,14 @@ function HeaderLoadData() {
     $.getJSON("../Data/Localization.json",
         function (data, textStatus, jqXHR) {
             data = data[LookFor(`Specialization`)]
-            $("#Title").text(data.Title);
-            $("#SubTitle").text(data.SubTitle);        
-            $(".Logo").click(LogoOnclick);
+            // $("#Title").text(data.Title);
+            // $("#SubTitle").text(data.SubTitle);        
+            // $(".Logo").click(LogoOnclick);
         }
     );
 }
 function LogoOnclick()
 {
-    window.location="../Home/Index.html"
+    window.location="/Index.html"
 }
 init()

@@ -1,13 +1,14 @@
 #TitleHolder{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* background-color:  rgb(48, 105, 170); */
-    background-color:  rgb(79,114,133);
     border-radius: 20px;
     padding: 20px;
-    height: 50%;
+    height: 70%;
     border: 3px solid white;
+    width: 100%;
+    min-width: 500px;
+    min-height: 90px;
+    max-width: 800px;
+    background-image: url('/Resources/Stella_Maris_Rectangle.png');
+    background-size: 100% 100%;
 }
 .Logo{
     background-position: center;

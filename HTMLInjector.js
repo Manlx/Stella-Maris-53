@@ -12,7 +12,6 @@ function load_css(Path)
     var cssLink= document.createElement('link');
     cssLink.href= Path;
     cssLink.rel= "stylesheet";
-
     head.appendChild(cssLink);
 }
 
