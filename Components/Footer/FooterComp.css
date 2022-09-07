@@ -1,5 +1,12 @@
+#FooterCompExternal{
+  justify-self: end;
+  background-color: green;
+  display: flex;
+}
 .FooterHolder{
 
+    /* justify-self: end; */
+    /* align-self: flex-end; */
     width:  96vw;
     padding: 2vw;
     background-image: linear-gradient(transparent,var(--DarkBlue));
