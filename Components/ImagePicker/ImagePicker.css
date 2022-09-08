@@ -1,15 +1,12 @@
 .ImagePickerHolder{
     flex-direction: column;
     margin: 5vh;
-    /* background-color: rgba(50, 50, 99, 0.5); */
 }
 .SVGItem{
     fill: rgba(0,0,0,0);
 }
 .SelectionRegion{
-    /* fill: rgba(0, 255, 247, 0); */
     transition: var(--TransTime);
-    /* fill: rgba(197, 79, 0, 1); */
 }
 .SelectionRegion:hover{
     fill: rgba(0, 174, 197, 0.8);
@@ -18,9 +15,10 @@
 #FloorPlan{
     border-radius: 20px;
     background-color: rgb(183,171,157);
-    padding: 2vh;
-    width: 1125px;
-    height: 825px;
+    /* padding: 2vh; */
+    /* width: 1125px; */
+    /* height: 825px; */
+    width: 80vw;
 }
 .Temp{
     fill: green;
@@ -30,8 +28,32 @@
 }
 .ImageHolder{
     display: grid;
-    margin: 5vw;
-    background-color: beige;
-    grid-template-columns: repeat(3,1fr);
-    
+    width: 80vw;
+    min-height: 5vh;
+    margin-top: 5vh;
+    background-color: var(--DarkBlue);
+    column-gap: 1vw;
+    row-gap: 1vw;
+    border-radius: var(--BorderRadi);
+    padding: 5vw;
+}
+.LandScapeImage{
+    width: 100%;
+    display: flex;
+    background-position: center;
+    background-size: 100% 100%;
+    border-radius: var(--BorderRadi);
+}
+.PhotoInstructions{
+    background-color: var(--MeduimBlue);
+    padding: 3vh;
+    margin: 2vh;
+    border-radius: var(--BorderRadi);
+}
+.PhotoErrorMessage{
+    color: black;
+}
+.ImageDiv{
+    width: 100%;
+    height: 100%;
 }

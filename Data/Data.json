@@ -1,106 +1,334 @@
 {
     "ImageData":[
         {
-            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10 (1).jpeg",
-            "Description":"Outside view of the sea",
-            "Category":"Outside",
-            "Tags":["Outside","Sea","View"]
-        },
-        {
-            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.56 (2).jpeg",
-            "Description":"A Nice view",
-            "Category":"Outside",
-            "Tags":["Outside","Sea","View"]
-        },
-        {
-            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.58 (1).jpeg",
-            "Description":"Pizza Time",
-            "Category":"Outside",
-            "Tags":["Outside","Sea","View"]
-        },
-        {
-            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10.jpeg",
-            "Description":"View from roof",
-            "Category":"Outside",
-            "Tags":["Pool","Roof","View"]
-        },
-        {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.45 (1).jpeg",
-            "Description":"Collage of rooms",
-            "Category":"Inside",
-            "Tags":["Inside","Rooms","Collage","Bathroom","Guest Bathroom","GuestRoom","Portrait"]
+            "Description":"Collage of inside",
+            "Tags":["Inside","Collage","Rooms","Bathrooms","Portrait"],
+            "Location":["Various"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.45 (2).jpeg",
+            "Description":"Collage of Sea views",
+            "Tags":["Outside","Sea","Beach","External Pool","Portrait"],
+            "Location":["Various","Outside"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.45.jpeg",
-            "Description":"Collage of rooms",
-            "Category":"Inside",
-            "Tags":["Kitchen","Living room","Collage","Portrait"]
+            "Description":"Collage of inside",
+            "Tags":["Lounge","Portrait","Kitchen"],
+            "Location":["Various","Inside"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.46 (1).jpeg",
-            "Description":"Photo of the hall as seen from the Master bedroom",
-            "Category":"Inside",
-            "Tags":["Hallway","Master bedroom","Portrait"]
+            "Description":"Photo of hallway from Master Bedroom",
+            "Tags":["Hallway","Portrait"],
+            "Location":["Hallway"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.46.jpeg",
-            "Description":"Kitchen with fridge and Stove",
-            "Category":"Inside",
-            "Tags":["Kitchen","Stove","Fridge"]
+            "Description":"Photo of kitchen",
+            "Tags":["Kitchen","Stove"],
+            "Location":["Kitchen"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.47 (1).jpeg",
-            "Description":"Masterbedroom looking out to the sea",
-            "Category":"Inside",
-            "Tags":["Master bedroom","Room","Double bed"]
+            "Description":"Photo of Masterbed room looking out on the sea",
+            "Tags":["Bedroom","Master bedroom","Bed","View"],
+            "Location":["Master bedroom"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.47.jpeg",
-            "Description":"Masterbedroom looking out to the sea",
-            "Category":"Inside",
-            "Tags":["Master bedroom","Room","Double bed","Portrait"]
+            "Description":"Photo of Masterbed room looking out on the sea",
+            "Tags":["Bedroom","Master bedroom","Bed","View","Portrait"],
+            "Location":["Master bedroom"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.48 (1).jpeg",
-            "Description":"Kitchen",
-            "Category":"Inside",
-            "Tags":["Kitchen","Dining Area"]
+            "Description":"Photo of Kitchen from Dining Area",
+            "Tags":["Kitchen","Dining Area"],
+            "Location":["Kitchen"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.48 (2).jpeg",
-            "Description":"Kitchen",
-            "Category":"Inside",
-            "Tags":["Kitchen","Washup Area"]
+            "Description":"Photo of Kitchen",
+            "Tags":["Kitchen","Sink","Wash up Area","Portrait"],
+            "Location":["Kitchen"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.48.jpeg",
-            "Description":"Living room area broad picture",
-            "Category":"Inside",
-            "Tags":["Living Room","Wide Shot"]
+            "Description":"Photo of Lounge",
+            "Tags":["Lounge","Sofa","Decoration","Seating"],
+            "Location":["Lounge"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.49 (1).jpeg",
-            "Description":"Living room area broad picture",
-            "Category":"Inside",
-            "Tags":["Living Room","Wide Shot"]
+            "Description":"Photo of Lounge",
+            "Tags":["Lounge","Sofa","Decoration","Seating"],
+            "Location":["Lounge"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.49 (2).jpeg",
-            "Description":"Guest Bathroom",
-            "Category":"Inside",
-            "Tags":["Guest Bathroom","Bath","Toilet","Basin","Washing Machine"]
+            "Description":"Photo of Guest Bathroom",
+            "Tags":["Bathroom","Guest Bathroom","Toilet","Bath","Sink","Toilet","Portrait"],
+            "Location":["Guest Bathroom"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.49.jpeg",
-            "Description":"Living Room cotch and Painting",
-            "Category":"Inside",
-            "Tags":["Cotch","Painting","Living Room","Portrait"]
+            "Description":"Photo of painting and sofa in lounge",
+            "Tags":["Sofa","Painting","Portrait"],
+            "Location":["Lounge"]
         },
         {
             "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.50 (1).jpeg",
-            "Description":"Master bathroom",
-            "Category":"Inside",
-            "Tags":["Shower","Toilet","Basin","Portrait","Master Bathroom"]
+            "Description":"Master Bathroom",
+            "Tags":["Master Bathroom","Toilet","Sink","Shower","Portrait"],
+            "Location":["Master Bathroom"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.50 (2).jpeg",
+            "Description":"Master Bedroom",
+            "Tags":["Master Bedroom","Bed","Portrait"],
+            "Location":["Master Bedroom"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.50.jpeg",
+            "Description":"Shower in Master Bathroom",
+            "Tags":["Master Bathroom","Shower","Portrait"],
+            "Location":["Master Bathroom"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.51 (1).jpeg",
+            "Description":"Shower in Master Bedroom",
+            "Tags":["Master Bedroom","Shower","Portrait"],
+            "Location":["Master Bedroom"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.51 (2).jpeg",
+            "Description":"Photo of Guest Bedroom",
+            "Tags":["Guest Bedroom","Bed","Portrait","Bunkbeds"],
+            "Location":["Guest Bedroom"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.51.jpeg",
+            "Description":"Photo of Master Bedroom",
+            "Tags":["Master Bedroom","Bed"],
+            "Location":["Master Bedroom"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.52 (1).jpeg",
+            "Description":"Photo of Guest Bedroom",
+            "Tags":["Guest Bedroom","Bed"],
+            "Location":["Guest Bedroom"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.23.52.jpeg",
+            "Description":"Photo of Master Bedroom",
+            "Tags":["Master Bedroom","Bed","Portrait"],
+            "Location":["Master Bedroom"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.53 (1).jpeg",
+            "Description":"Photo of the security gate at the back of the building",
+            "Tags":["Back of the building","Security Gate","Outside"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.53 (2).jpeg",
+            "Description":"Photo of the outside of the building almost at the beach",
+            "Tags":["Back of the building","Outside","Portrait"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.53.jpeg",
+            "Description":"Photo of the outside of the building almost at the beach",
+            "Tags":["Outside","Portrait","Sunset","Beach","Sea","Balcony"],
+            "Location":["Outside","Balcony"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.54 (1).jpeg",
+            "Description":"Photo of the Dining Area",
+            "Tags":["Dining Area","Front Door"],
+            "Location":["Dining Area"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.54 (2).jpeg",
+            "Description":"Photo of the Dining Area and Lounge",
+            "Tags":["Dining Area","Front Door","Lounge"],
+            "Location":["Dining Area","Lounge"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.54.jpeg",
+            "Description":"Photo of the outside of the building",
+            "Tags":["Outside","Back of the building"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.55 (1).jpeg",
+            "Description":"Security blocks",
+            "Tags":["Security","Fault","Locker","Safe"],
+            "Location":["Inside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.55 (2).jpeg",
+            "Description":"Photo from the roof of the building",
+            "Tags":["Outside","View","Roof","Beach","Sea","Portrait"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.55.jpeg",
+            "Description":"Photo of Lounge Kitchen and Dining Area",
+            "Tags":["Inside","Kitchen","Dining Area","Lounge"],
+            "Location":["Kitchen","Dining Area","Lounge"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.56 (1).jpeg",
+            "Description":"Photo of Lounge",
+            "Tags":["Inside","Lounge"],
+            "Location":["Lounge"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.56 (2).jpeg",
+            "Description":"View of the sea in the morning",
+            "Tags":["Sea","View"],
+            "Location":["Outside","Balcony"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.56.jpeg",
+            "Description":"View of the Lounge",
+            "Tags":["Lounge"],
+            "Location":["Inside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.57 (1).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","View"],
+            "Location":["Outside","Balcony"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.57.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","View"],
+            "Location":["Outside","Balcony"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.58 (1).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","View","Parking"],
+            "Location":["Outside","Balcony"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.25.58.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","View"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.08.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.09.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10 (1).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10 (2).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.10.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Pool","Parking"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.11 (1).jpeg",
+            "Description":"View of the moon over the sea at night",
+            "Tags":["Outside","moon","night","View","Portrait"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.11 (2).jpeg",
+            "Description":"View of the moon over the sea at night",
+            "Tags":["Outside","moon","night","View","Portrait"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.11 (3).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.11.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View","Roof"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.12 (1).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View","Roof"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.12 (2).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.12.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.13 (1).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View","Portrait"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.13 (2).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.13.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View","Portrait"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.14 (1).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.14 (2).jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View","Pool"],
+            "Location":["Outside"]
+        },
+        {
+            "ImagePath":"/Resources/Media/WhatsApp Image 2022-09-04 at 20.37.14.jpeg",
+            "Description":"View of the Beach",
+            "Tags":["Outside","Sea","Beach","View"],
+            "Location":["Outside"]
         }
     ]
 }

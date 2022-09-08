@@ -47,7 +47,7 @@ function GetData() {
             Data = data.ImageData
             console.log(Data)
             Data = Data.filter(function (e){
-                return e.Tags.includes("View")
+                return e.Tags.includes("View") && !e.Tags.includes("Portrait")
             })
             setInterval(Tick,PageRate)
             LoadData()

@@ -1,7 +1,10 @@
 <div class="ImagePickerHolder FlexCenter">
+  <div class="PhotoInstructions FlexCenter">
+    <h1>Click On Area to view Image</h1>
+  </div>
+  
   <svg id="FloorPlan" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1500 1100">
     <g transform="matrix(1, 0, 0, 1, 8, 8)" data-bx-origin="0 0">
-      
       <rect class="SVGItem" x="1202" y="202" width="200" height="360"  stroke="rgb(0, 0, 0)" stroke-width="5" transform="rotate(90,1302,382)" ></rect>
       <rect class="SVGItem" x="1212" y="212" width="80" height="80" rx="10" ry="10"  stroke="rgb(0, 0, 0)" stroke-width="5" transform="rotate(90,1302,382)" ></rect>
       <rect class="SVGItem" x="1312" y="212" width="80" height="80" rx="10" ry="10"  stroke="rgb(0, 0, 0)" stroke-width="5" transform="rotate(90,1302,382)" ></rect>
@@ -102,21 +105,21 @@
       <ellipse class="SVGItem" cx="1107" cy="744.69" rx="36" ry="37.3134328358209"  stroke="rgb(0, 0, 0)" stroke-width="5" transform="translate(0,732)scale(1,-1)translate(0,-732)rotate(90,1107,732)" ></ellipse>
       <ellipse class="SVGItem" cx="1107" cy="747.67" rx="21.6" ry="22.388059701492537"  stroke="rgb(0, 0, 0)" stroke-width="5" transform="translate(0,732)scale(1,-1)translate(0,-732)rotate(90,1107,732)" ></ellipse>
       <ellipse class="SVGItem" cx="1107" cy="735.73" rx="9" ry="10.447761194029852" fill="#000000" stroke="none" transform="translate(0,732)scale(1,-1)translate(0,-732)rotate(90,1107,732)" ></ellipse>
-
       
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)"  id="DiningArea" x="2" y="522" width="480" height="400" pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="Lounge" x="2" y="162" width="480" height="360"  pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="Kitchen" x="482" y="602" width="361" height="320"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="GuestBathroom" x="842" y="602" width="320" height="320"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="MasterBathroom" x="1162" y="602" width="320" height="320"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="MasterBedroom" x="1002" y="162" width="480" height="440"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="Balcony" x="82" y="2" width="1320" height="160"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="ExternalHallway" x="2.5" y="922" width="1479.5" height="160" pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="GuestBedroom" x="482" y="162" width="520" height="360"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
-      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this)" id="Hallway" x="482" y="522" width="520" height="80"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,1)"  id="DiningArea" x="2" y="522" width="480" height="400" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,6)" id="Lounge" x="2" y="162" width="480" height="360"  pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,7)" id="Kitchen" x="482" y="602" width="361" height="320"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,5)" id="GuestBathroom" x="842" y="602" width="320" height="320"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,4)" id="MasterBathroom" x="1162" y="602" width="320" height="320"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,2)" id="MasterBedroom" x="1002" y="162" width="480" height="440"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,10)" id="Balcony" x="82" y="2" width="1320" height="160"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,11)" id="ExternalHallway" x="2.5" y="922" width="1479.5" height="160" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,3)" id="GuestBedroom" x="482" y="162" width="520" height="360"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
+      <rect class="SVGItem SelectionRegion " onclick="OnAreaClick(this,8)" id="Hallway" x="482" y="522" width="520" height="80"  stroke="rgb(0, 0, 0)" stroke-width="5" pointer-events="all"></rect>
     </g>
   </svg>
-  <div class="ImageHolder">
-
+  <div class="ImageHolder" id="LandScapeDisplay">
+  </div>
+  <div class="ImageHolder" id="PortraitDisplay">
   </div>
 </div>
