@@ -1,5 +1,5 @@
 .ImagePickerHolder{
-    
+    flex-direction: column;
     margin: 5vh;
     /* background-color: rgba(50, 50, 99, 0.5); */
 }
@@ -27,4 +27,11 @@
 }
 .Temp2{
     fill: orange;
+}
+.ImageHolder{
+    display: grid;
+    margin: 5vw;
+    background-color: beige;
+    grid-template-columns: repeat(3,1fr);
+    
 }
