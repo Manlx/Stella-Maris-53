@@ -3,6 +3,7 @@ function load_js(Path)
     var head= document.getElementsByTagName('head')[0];
     var script= document.createElement('script');
     script.src= Path;
+    // script.type="module"
     head.appendChild(script);
 }
 

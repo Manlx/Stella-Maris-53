@@ -10,6 +10,17 @@ function CourselInit() {
     $(".CarouselHolder").mouseleave(function () { 
         doTick= true
     });
+
+    let VWUnit = screen.width/100;
+    let Ratio = screen.height/ screen.width
+    let Scale = 1
+    let Width = $(".CarouselHolder").outerWidth()/VWUnit*Scale;
+    let Heigth = Width*Ratio;
+    $(".InnerScaler").css("height",`${Heigth}vw`);
+    $(".InnerScaler").css("width",`${Width}vw`);
+
+    let ButtonHeight = $(".CarouselButtonHolder").outerWidth()/VWUnit;
+    $(".CarouselButton").css("height",`${ButtonHeight}vw`);
 }
 
 function btnLeftClick() {

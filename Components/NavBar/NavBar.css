@@ -9,6 +9,7 @@
     border-right: 1px solid var(--LightBlue);
 }
 .NavBar{
+    filter:  drop-shadow(0px 10px 5px #232323);
     background-color: rgb(183,171,157);
     border-radius: 20px;
     margin: 4vh 3vw 0 3vw;
